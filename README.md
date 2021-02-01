@@ -1,2 +1,4 @@
 # hello-word
-just training
+
+Hi!
+That's my first repository here!
